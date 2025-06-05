@@ -27,7 +27,7 @@
     </td>
     <td width="35%" valign="top" align="right">
 
-<img src="YOUR_IMAGE_URL_HERE" alt="Geethanjali Rambarika" width="200" style="border-radius:10px;"/>
+    <img src="https://github.com/Geethanjali37/Geethanjali37/blob/main/1749118606549.png" alt="Geethanjali Rambarika" width="600" style="border-radius:10px;"/>
 
     </td>
   </tr>
